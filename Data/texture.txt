@@ -1,0 +1,28 @@
+Background layers/sky
+Background layers/grassy_mountains_fc
+Background layers/clouds_mid_t
+Background layers/clouds_mid
+Background layers/hill
+Background layers/clouds_front_t
+Background layers/clouds_front
+Background layers/sky_lightened
+Background layers/clouds_bg
+Background layers/clouds_mg_3
+Background layers/glacial_mountains
+Background layers/glacial_mountains_lightened
+Background layers/clouds_mg_2
+Background layers/clouds_mg_1_lightened
+Background layers/clouds_mg_1
+Background layers/cloud_lonely
+Background layers/Background
+Bat/Flying (46x30)
+Bat/Hit (46x30)
+btn/about
+btn/close
+btn/close_2
+btn/faq
+btn/menu
+btn/settings
+btn/restart
+btn/prize
+btn/play
